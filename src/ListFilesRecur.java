@@ -14,7 +14,7 @@ public class ListFilesRecur {
                    }
                }
            }else{
-               System.out.println("we have encountered null ");
+               System.out.println("We have encountered null ");
            }
         }
     }
