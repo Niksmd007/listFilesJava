@@ -10,7 +10,7 @@ public class ListFilesRecur {
                    if( file.isDirectory())
                        listFilesRec(file);
                    else{
-                       System.out.println("absolute path for the filename "+file.getAbsoluteFile());
+                       System.out.println("Absolute path for the filename "+file.getAbsoluteFile());
                    }
                }
            }else{
